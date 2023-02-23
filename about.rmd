@@ -1,0 +1,29 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About
+
+When the moon hits your eye.
+
+https://www.youtube.com/watch?v=wWulNMLukVE
+
+{% include youtube.html id="wWulNMLukVE" %}
+
+https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=wWulNMLukVE"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+

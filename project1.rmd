@@ -1,0 +1,40 @@
+---
+title: "Maintenance"
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Washing Machine
+
+To keep clothes fresh, the grime build-up on the walls of the tub requires regular cleaning.
+
+### Cleaning cycle (1 of 2)
+
+Run an empty load with hot water and 2 cups of white vinegar.
+
+Let the machine fill with water and agitate for a minute, pause the cycle for an hour to let the vinegar soak.  
+
+#### Clear Filters
+
+There’s an outlet filter on the back of the machine, have some towels ready as it get get wet and gross quickly. Unscrew the bung and fish out any debris. Water should run clear if all is well. 
+
+#### Scrub the drum
+
+- 1/4 cup of vinegar
+- ~1L warm water
+- Bucket
+- Sponge
+- Toothbrush
+
+### Cleaning cycle (2 of 2)
+
+Run an empty load with hot water and 1/2 cup of baking soda. 
+
+### Log
+
+In mid-November 2022, Jacob performed Cleaning cycle 1 of 2 and cleaned the filters.
